@@ -37,3 +37,14 @@ body {
 
 }
 
+/*WORK ON FLEX BOX ITEM SIZING*/
+
+.emoji {
+  display: flex;
+  flex-direction: column;
+}
+
+.icon {
+  order: -1;
+  align-self: center;
+}
